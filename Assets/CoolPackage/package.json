@@ -9,7 +9,7 @@
     "coolpackage"
   ],
   "dependencies": {
-    "com.unity.mathematics": "1.1.0",
+    "com.unity.mathematics": "1.1.0"
   },
   "author": {
     "name": "Sark",
