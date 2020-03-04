@@ -1,3 +1,10 @@
+## [0.3.3](https://github.com/sarkahn/test_actions/compare/v0.3.2...v0.3.3) (2020-03-04)
+
+
+### Bug Fixes
+
+* changelog test ([2c63437](https://github.com/sarkahn/test_actions/commit/2c63437802df10fa43900da2ed77ca3710cd4ace))
+
 ## [0.3.2](https://github.com/sarkahn/test_actions/compare/v0.3.1...v0.3.2) (2020-03-04)
 
 
