@@ -1,3 +1,10 @@
+## [0.4.1](https://github.com/sarkahn/test_actions/compare/v0.4.0...v0.4.1) (2020-03-06)
+
+
+### Bug Fixes
+
+* branch test ([3e85f6c](https://github.com/sarkahn/test_actions/commit/3e85f6c8bfe935b4b6dc9f8d37223562c0f4033f))
+
 # [0.4.0](https://github.com/sarkahn/test_actions/compare/v0.3.10...v0.4.0) (2020-03-06)
 
 
