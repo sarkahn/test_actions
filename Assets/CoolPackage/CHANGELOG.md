@@ -1,3 +1,10 @@
+# [0.4.0](https://github.com/sarkahn/test_actions/compare/v0.3.10...v0.4.0) (2020-03-06)
+
+
+### Features
+
+* TEST ([e0bc607](https://github.com/sarkahn/test_actions/commit/e0bc6075d8ea62341189ce9b4c3877c9de5549bb))
+
 ## [0.3.10](https://github.com/sarkahn/test_actions/compare/v0.3.9...v0.3.10) (2020-03-06)
 
 
