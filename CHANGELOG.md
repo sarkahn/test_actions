@@ -1,3 +1,10 @@
+## [0.3.10](https://github.com/sarkahn/test_actions/compare/v0.3.9...v0.3.10) (2020-03-06)
+
+
+### Bug Fixes
+
+* error in bash script ([f16af97](https://github.com/sarkahn/test_actions/commit/f16af97aa2d8f26ee8c9c17842f93a325c9a25ef))
+
 ## [0.3.9](https://github.com/sarkahn/test_actions/compare/v0.3.8...v0.3.9) (2020-03-06)
 
 
