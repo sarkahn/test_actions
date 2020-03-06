@@ -29,7 +29,7 @@ jobs:
         cp "LICENSE.md" "$PKG_ROOT/LICENSE.md" 2>/dev/null || :
         cp ./src/*/*.h ./aaa 2>/dev/null || :
         git subtree split -P "$PKG_ROOT" -b upm
-        git checkout upm
+        git checkout -f upm
         if [[ -d "Samples" ]]; then
           git mv Samples Samples~
           rm -f Samples.meta
