@@ -1,28 +1,21 @@
-# [0.5.0](https://github.com/sarkahn/test_actions/compare/v0.4.4...v0.5.0) (2020-03-06)
-
-
-### Features
-
-* added steps in bash script to copy README/LICENSE/CHANGELOG from project root to package root (if they exist) ([af65bd0](https://github.com/sarkahn/test_actions/commit/af65bd0665ad460462fc37fdb42e5e01411e90d7))
-
-## [0.4.4](https://github.com/sarkahn/test_actions/compare/v0.4.3...v0.4.4) (2020-03-06)
+## [0.3.5](https://github.com/sarkahn/test_actions/compare/v0.3.4...v0.3.5) (2020-03-04)
 
 
 ### Bug Fixes
 
-* error in ci.yaml ([f379f8c](https://github.com/sarkahn/test_actions/commit/f379f8c5609d3c3d22bcb40eee283ff8b17cfa60))
-* Test ci file copy ([b2f5dcc](https://github.com/sarkahn/test_actions/commit/b2f5dcc9fb8014e84809def4ae10f12e3d2833a1))
+* aaaaa ([ab318fa](https://github.com/sarkahn/test_actions/commit/ab318fa545ee92b46ecefd083f1bb4ccd2391665))
+* changelog test ([58df84f](https://github.com/sarkahn/test_actions/commit/58df84f6e4d4f0cfb71032a2a74a6f6427696402))
 
-## [0.4.3](https://github.com/sarkahn/test_actions/compare/v0.4.2...v0.4.3) (2020-03-06)
-
-
-### Bug Fixes
-
-* Force checkout in CI ([7190231](https://github.com/sarkahn/test_actions/commit/71902317d2d1f4b52bcb02c2dddadbf376e86d72))
-
-## [0.4.2](https://github.com/sarkahn/test_actions/compare/v0.4.1...v0.4.2) (2020-03-06)
+## [0.3.3](https://github.com/sarkahn/test_actions/compare/v0.3.2...v0.3.3) (2020-03-04)
 
 
 ### Bug Fixes
 
-* testing readme copies ([326d735](https://github.com/sarkahn/test_actions/commit/326d735431ce6447fdba675351341e4c59bca49f))
+* changelog test ([2c63437](https://github.com/sarkahn/test_actions/commit/2c63437802df10fa43900da2ed77ca3710cd4ace))
+
+## [0.3.2](https://github.com/sarkahn/test_actions/compare/v0.3.1...v0.3.2) (2020-03-04)
+
+
+### Bug Fixes
+
+* trying to fix changelog ([1d8a4f4](https://github.com/sarkahn/test_actions/commit/1d8a4f4a745863cb643c596d721c46e15ba2ce0e))
