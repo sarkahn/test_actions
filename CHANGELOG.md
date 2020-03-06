@@ -1,3 +1,10 @@
+# [0.5.0](https://github.com/sarkahn/test_actions/compare/v0.4.4...v0.5.0) (2020-03-06)
+
+
+### Features
+
+* added steps in bash script to copy README/LICENSE/CHANGELOG from project root to package root (if they exist) ([af65bd0](https://github.com/sarkahn/test_actions/commit/af65bd0665ad460462fc37fdb42e5e01411e90d7))
+
 ## [0.4.4](https://github.com/sarkahn/test_actions/compare/v0.4.3...v0.4.4) (2020-03-06)
 
 
