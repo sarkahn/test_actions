@@ -3,7 +3,7 @@
   "plugins": [
     ["@semantic-release/commit-analyzer", { "preset": "angular" }],
     "@semantic-release/release-notes-generator",
-    ["@semantic-release/changelog", { "preset": "angular" }],
+    ["@semantic-release/changelog", { "preset": "angular", "changelogFile": "Assets/CoolPackage/CHANGELOG.md" }],
     ["@semantic-release/npm", { "npmPublish": false, "pkgRoot": "Assets/CoolPackage" }],
     ["@semantic-release/git", {
       "assets": ["Assets/CoolPackage/package.json", "Assets/CoolPackage/CHANGELOG.md"],
