@@ -1,3 +1,10 @@
+## [0.3.9](https://github.com/sarkahn/test_actions/compare/v0.3.8...v0.3.9) (2020-03-06)
+
+
+### Bug Fixes
+
+* TEST ([dd13070](https://github.com/sarkahn/test_actions/commit/dd13070e29b4122d796f0ec260250d235c3c68ae))
+
 ## [0.3.5](https://github.com/sarkahn/test_actions/compare/v0.3.4...v0.3.5) (2020-03-04)
 
 
