@@ -24,10 +24,9 @@ jobs:
     - name: Create upm branch
       run: |
         git branch -d upm &> /dev/null || echo upm branch not found
-        cp "CHANGELOG.md" "$PKG_ROOT/CHANGELOG.md" 2>/dev/null || :
-        cp "README.md" "$PKG_ROOT/README.md" 2>/dev/null || :
-        cp "LICENSE.md" "$PKG_ROOT/LICENSE.md" 2>/dev/null || :
-        cp ./src/*/*.h ./aaa 2>/dev/null || :
+        cp CHANGELOG.md "$PKG_ROOT/CHANGELOG.md" 2>/dev/null || :
+        cp README.md "$PKG_ROOT/README.md" 2>/dev/null || :
+        cp LICENSE.md "$PKG_ROOT/LICENSE.md" 2>/dev/null || :
         git subtree split -P "$PKG_ROOT" -b upm
         git checkout -f upm
         if [[ -d "Samples" ]]; then
