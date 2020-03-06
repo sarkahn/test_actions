@@ -1,3 +1,11 @@
+## [0.4.4](https://github.com/sarkahn/test_actions/compare/v0.4.3...v0.4.4) (2020-03-06)
+
+
+### Bug Fixes
+
+* error in ci.yaml ([f379f8c](https://github.com/sarkahn/test_actions/commit/f379f8c5609d3c3d22bcb40eee283ff8b17cfa60))
+* Test ci file copy ([b2f5dcc](https://github.com/sarkahn/test_actions/commit/b2f5dcc9fb8014e84809def4ae10f12e3d2833a1))
+
 ## [0.4.3](https://github.com/sarkahn/test_actions/compare/v0.4.2...v0.4.3) (2020-03-06)
 
 
