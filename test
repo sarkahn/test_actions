@@ -1,9 +1,11 @@
 #!/bin/bash
 # A simple script
-cp "CHANGELOG.md" "Assets/CoolPackage/CHANGELOG.md" 2>/dev/null || :
-cp "README.md" "Assets/CoolPackage/README.md" 2>/dev/null || :
-cp "LICENSE.md" "Assets/CoolPackage/LICENSE.md" 2>/dev/null || :
-
-        cp CHANGELOG.md "$PKG_ROOT/CHANGELOG.md" 2>/dev/null || :
-        cp README.md "$PKG_ROOT/README.md" 2>/dev/null || :
-        cp LICENSE.md "$PKG_ROOT/LICENSE.md" 2>/dev/null || :
+if git cat-file -e master:CHANGELOG.md 2>/dev/null; then
+	git checkout master -- CHANGELOG.md
+fi
+if git cat-file -e master:LICENSE.md 2>/dev/null; then
+	git checkout master -- LICENSE.md
+fi
+if git cat-file -e master:README.md 2>/dev/null; then
+	git checkout master -- README.md
+fi
