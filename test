@@ -3,3 +3,7 @@
 cp "CHANGELOG.md" "Assets/CoolPackage/CHANGELOG.md" 2>/dev/null || :
 cp "README.md" "Assets/CoolPackage/README.md" 2>/dev/null || :
 cp "LICENSE.md" "Assets/CoolPackage/LICENSE.md" 2>/dev/null || :
+
+        cp CHANGELOG.md "$PKG_ROOT/CHANGELOG.md" 2>/dev/null || :
+        cp README.md "$PKG_ROOT/README.md" 2>/dev/null || :
+        cp LICENSE.md "$PKG_ROOT/LICENSE.md" 2>/dev/null || :
