@@ -1,7 +1,5 @@
 #!/bin/bash
 # A simple script
-if test CHANGELOG.md
-then
-	cp CHANGELOG.md Assets/CoolPackage/CHANGELOG.md
-	cp CHANGELOG.md Assets/CoolPackage/CHANGELOG.md
-fi
+cp "CHANGELOG.md" "Assets/CoolPackage/CHANGELOG.md" 2>/dev/null || :
+cp "README.md" "Assets/CoolPackage/README.md" 2>/dev/null || :
+cp "LICENSE.md" "Assets/CoolPackage/LICENSE.md" 2>/dev/null || :
